@@ -28,7 +28,7 @@
     },
     "sqlImageSku": {
       "type": "string",
-      "defaultValue": "standard",
+      "defaultValue": "Standard",
       "allowedValues": [
         "Enterprise",
         "Standard",
