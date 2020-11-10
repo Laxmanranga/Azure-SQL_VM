@@ -10,6 +10,7 @@
     },
     "vmSize": {
       "type": "string",
+      "defaultValue": "Standard_DS1_v2",
       "metadata": {
         "description": "SQL IaaS VM size. Use Azure VM size name from MSDN"
       }
